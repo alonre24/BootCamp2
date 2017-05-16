@@ -16,9 +16,6 @@ public class CrewTest {
     @Before
     public void setUp() {
 
-//        Solider commander = new Solider(1234567, "Yossi", "Cohen", "0521234567",
-//                "Tel-Aviv", "01-01-1990", "Danny", 0, 97, Rank.SQUAD_COMMANDER);
-//        this.crew = new Crew(1, commander);
 
     }
 
